@@ -1,6 +1,6 @@
 {
-  "name": "Remove Ads TV",
-  "version": "1.0",
+  "name": "Remove Ads in Trading View",
+  "version": "2.0",
   "description": "Remove the annoying ads in TV :)",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
